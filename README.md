@@ -24,6 +24,9 @@ How to install the PTA software (and its dependencies) on a new MAC (M3) machine
 
 How to install the PTA software (and its dependencies) on a Windows machine:
   1) Use [WSL](https://learn.microsoft.com/en-us/windows/wsl/about) to install a LINUX instance on your Windows machine.
-  2) Follow the instructions for LINUX. The software will not run on Windows natively!
+  2) Follow the instructions for LINUX. The software will not run on Windows natively!/////
+
+******NEW*********
+For instructions on how to install holodeck (requied for day 4) go [here](https://github.com/nanograv/holodeck)
 
   
